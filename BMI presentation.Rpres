@@ -1,0 +1,38 @@
+Shiny Apps for BMI Calculator
+========================================================
+author: Nor Hamizah
+date: Jan 25th, 2016
+
+What is shiny Apps for BMI Calculator
+========================================================
+
+* ShinyApp is an easy and interactive web-based tool
+* Shiny Apps can predict Body Mass Index (BMI) of an individu based on their height and weight. 
+
+Apps for BMI Calculator
+========================================================
+
+![alt text](BMI.png)
+
+How does shiny Apps for BMI Calculator work?
+========================================================
+
+Shiny Apps uses machine learning on the to calculate the BMI index based on the output from users which are heights (in metres) and weights (in kilograms).
+
+Regarding the BMI measure, the World Health Organization (WHO) proposes the following classification:
+* <18.5       : **Underweight**
+* [18.5-24.9] : **Normal weight**
+* [25-29.9]   : **Overweight**
+* >=30        : **Obesity**
+
+References
+========================================================
+* More information regarding BMI measure can be obtained at [wikipedia][1]
+
+* Please click and measure your BMI in my Shiny Apps : [BMI Calculator][2]
+
+* My github repository: [https://github.com/nhamizah/ShinyApplication][3]
+
+[1]:https://en.wikipedia.org/wiki/Body_mass_index "wikipedia"
+[2]:https://nhamizah.shinyapps.io/BMI_Calculator/ "BMI Calculator"
+[3]:https://github.com/nhamizah/ShinyApplication "https://github.com/nhamizah/ShinyApplication"
